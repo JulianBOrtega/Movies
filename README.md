@@ -3,7 +3,7 @@
 ## Integrantes:
 - Mealla Abigail
 - Julián B. Ortega
-- Diego Montes, 19 años, Plaza Huincul(Neuquén)
+- Diego Montes | Edad: 25 | Ciudad: Plaza-Huincul
 
 ## Fecha
 9 de Junio 2022
