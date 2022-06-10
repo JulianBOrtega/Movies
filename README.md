@@ -2,7 +2,7 @@
 ## Comisión 15
 ## Integrantes:
 - Mealla Abigail
-- Julián B. Ortega
+- Julián B. Ortega | Edad: 25 | Ciudad: Cutral-Co
 - Diego Montes
 
 ## Fecha
